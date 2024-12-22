@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @rajat-create
+- 👋 Hi, I’m coding_Buddy
 - 👀 I’m interested in AI and ML
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on discord
 - 📫 you can reach me @rdmajumdar007gmail.com
-- 😄 Pronouns: Rajat
+- 😄 Pronouns: Buddy
 - ⚡ Fun fact: very lazy after finishing the work.
 
 <!---
